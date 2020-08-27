@@ -1,0 +1,165 @@
+1992 Hank Chigla NULL 00CFFBAC NULL
+
+------  Rec 1 2 3 -----------
+888a Jerry Malega NULL 00CFFBE0 NULL
+
+1992 Hank Chigla NULL 00CFFBAC NULL
+
+888a Jerry Malega NULL 00CFFB78 NULL
+------ Rec 3-----------
+xxxx Mr Beepers NULL 00CFFB78 NULL
+11---------- mylist ----------
+
+1992 Hank Chigla NULL 00FC53B8 00FC4D80
+888a Jerry Malega 00FC53B8 00FC4D80 NULL
+01#######  mylist ########
+
+1992 Hank Chigla NULL 00FC53B8 00FC4D80
+888a Jerry Malega 00FC53B8 00FC4D80 00FCF830
+16 Larry Orlando 00FC4D80 00FCF830 NULL
+###### myotherlist ########
+
+1992 Hank Chigla NULL 00FC4E90 00FCF7D8
+888a Jerry Malega 00FC4E90 00FCF7D8 NULL
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID AABBCC
+
+First Name Joe
+
+Last Name Black
+
+Success!
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID AABBCC
+
+First Name Ernie
+
+Last Name Bert
+
+Item failed to be added
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID DDEE
+
+First Name Big
+
+Last Name Bird
+
+Success!
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+0
+
+DDEE Big Bird NULL 00FCC6F8 00FCC6A0
+AABBCC Joe Black 00FCC6F8 00FCC6A0 00FC53B8
+1992 Hank Chigla 00FCC6A0 00FC53B8 00FC4D80
+888a Jerry Malega 00FC53B8 00FC4D80 00FCF830
+16 Larry Orlando 00FC4D80 00FCF830 NULL
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+1
+
+16 Larry Orlando 00FC4D80 00FCF830 NULL
+888a Jerry Malega 00FC53B8 00FC4D80 00FCF830
+1992 Hank Chigla 00FCC6A0 00FC53B8 00FC4D80
+AABBCC Joe Black 00FCC6F8 00FCC6A0 00FC53B8
+DDEE Big Bird NULL 00FCC6F8 00FCC6A0
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+0
+
+DDEE Big Bird NULL 00FCC6F8 00FCC6A0
+AABBCC Joe Black 00FCC6F8 00FCC6A0 00FC53B8
+1992 Hank Chigla 00FCC6A0 00FC53B8 00FC4D80
+888a Jerry Malega 00FC53B8 00FC4D80 00FCF830
+16 Larry Orlando 00FC4D80 00FCF830 NULL
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+1
+
+16 Larry Orlando 00FC4D80 00FCF830 NULL
+888a Jerry Malega 00FC53B8 00FC4D80 00FCF830
+1992 Hank Chigla 00FCC6A0 00FC53B8 00FC4D80
+AABBCC Joe Black 00FCC6F8 00FCC6A0 00FC53B8
+DDEE Big Bird NULL 00FCC6F8 00FCC6A0
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 2
+
+Enter id :ZZZZZ
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 2
+
+Enter id :ERT342
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID GERBE
+
+First Name Pat
+
+Last Name Zeb
+
+Success!
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID GERBE
+
+First Name Pat
+
+Last Name Zeb
+
+Item failed to be added
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 1
+
+Enter ID chicky
+
+First Name Best
+
+Last Name Won
+
+Success!
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 2
+
+Enter id :5671A
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+0
+
+DDEE Big Bird NULL 00FCC6F8 00FCC6A0
+AABBCC Joe Black 00FCC6F8 00FCC6A0 00FC53B8
+1992 Hank Chigla 00FCC6A0 00FC53B8 00FC4D80
+888a Jerry Malega 00FC53B8 00FC4D80 00FCF830
+16 Larry Orlando 00FC4D80 00FCF830 00FD0FD0
+chicky Best Won 00FCF830 00FD0FD0 00FD1188
+GERBE Pat Zeb 00FD0FD0 00FD1188 NULL
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 3
+Enter order 0 - Ascending, 1 - Descending
+1
+
+GERBE Pat Zeb 00FD0FD0 00FD1188 NULL
+chicky Best Won 00FCF830 00FD0FD0 00FD1188
+16 Larry Orlando 00FC4D80 00FCF830 00FD0FD0
+888a Jerry Malega 00FC53B8 00FC4D80 00FCF830
+1992 Hank Chigla 00FCC6A0 00FC53B8 00FC4D80
+AABBCC Joe Black 00FCC6F8 00FCC6A0 00FC53B8
+DDEE Big Bird NULL 00FCC6F8 00FCC6A0
+Enter your choice
+1 Add, 2 Delete, 3 Print, 0 quit 0
+
+C:\Users\Brice\source\repos\OOList\Debug\OOList.exe (process 8604) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
