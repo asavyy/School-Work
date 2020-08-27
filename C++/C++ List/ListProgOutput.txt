@@ -1,0 +1,72 @@
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 3
+Enter the order in which you would like to print the list (0 for ascending, 1 for descending):
+0
+The list is currently empty.
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 2
+Enter an ID that you would like to delete:
+123
+The list is empty
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 1
+Please enter the ID:
+123
+Please enter the first name:
+Hank
+Please enter the last name:
+Chigla
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 2
+Enter an ID that you would like to delete:
+123
+Delete Successful
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 1
+Please enter the ID:
+567
+Please enter the first name:
+Tom
+Please enter the last name:
+Smith
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 1
+Please enter the ID:
+789
+Please enter the first name:
+Barnabas
+Please enter the last name:
+Ansy
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 2
+Enter an ID that you would like to delete:
+789
+Delete Successful
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 1
+Please enter the ID:
+111
+Please enter the first name:
+Joe
+Please enter the last name:
+Burns
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 1
+Please enter the ID:
+111
+Please enter the first name:
+Vicktor
+Please enter the last name:
+Bosco
+You've entered a duplicate ID. Please re-enter the record with a valid ID.
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 1
+Please enter the ID:
+13X3
+Please enter the first name:
+Bob
+Please enter the last name:
+Cat
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 2
+Enter an ID that you would like to delete:
+13X3
+Delete Successful
+What would you like to do?(1 to add an item, 2 to delete an item, 3 to print the list, 0 to quit: 1
+Please enter the ID:
+334
+Please enter the first name:
+Yaris
+Please enter the last name:
+Maggle
+
+<Error got thrown here, I really couldn't figure it out right. It's probably minimal, but I couldnt find it in time. Im sorry.>

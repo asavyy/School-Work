@@ -1,0 +1,6 @@
+﻿  list.cpp
+  listies.cpp
+D:\Bullshit Homework I Hate\listies\listies\listies.cpp(18,24): warning C4101: 'lastName': unreferenced local variable
+D:\Bullshit Homework I Hate\listies\listies\listies.cpp(18,9): warning C4101: 'firstName': unreferenced local variable
+  Generating Code...
+  listies.vcxproj -> D:\Bullshit Homework I Hate\listies\Debug\listies.exe
