@@ -1,0 +1,148 @@
+Please enter an amount of money between $0-100: $100
+The number of pennies: 0
+The number of nickels: 0
+The number of dimes: 0
+The number of quarters: 0
+The number of one dollar bills: 0
+The number of five dollar bills: 0
+The number of ten dollar bills: 0
+The number of twenty dollar bills: 0
+The number of fifty dollar bills: 0
+The number of one-hundred dollar bills: 1
+Do you want to repeat the program? (y/n)
+y
+Please enter an amount of money between $0-100: $100.00
+The number of pennies: 0
+The number of nickels: 0
+The number of dimes: 0
+The number of quarters: 0
+The number of one dollar bills: 0
+The number of five dollar bills: 0
+The number of ten dollar bills: 0
+The number of twenty dollar bills: 0
+The number of fifty dollar bills: 0
+The number of one-hundred dollar bills: 1
+Do you want to repeat the program? (y/n)
+y
+Please enter an amount of money between $0-100: $99.99
+The number of pennies: 4
+The number of nickels: 0
+The number of dimes: 2
+The number of quarters: 3
+The number of one dollar bills: 4
+The number of five dollar bills: 1
+The number of ten dollar bills: 0
+The number of twenty dollar bills: 2
+The number of fifty dollar bills: 1
+The number of one-hundred dollar bills: 0
+Do you want to repeat the program? (y/n)
+y
+Please enter an amount of money between $0-100: $99.98
+The number of pennies: 3
+The number of nickels: 0
+The number of dimes: 2
+The number of quarters: 3
+The number of one dollar bills: 4
+The number of five dollar bills: 1
+The number of ten dollar bills: 0
+The number of twenty dollar bills: 2
+The number of fifty dollar bills: 1
+The number of one-hundred dollar bills: 0
+Do you want to repeat the program? (y/n)
+y
+Please enter an amount of money between $0-100: $99.95
+The number of pennies: 0
+The number of nickels: 0
+The number of dimes: 2
+The number of quarters: 3
+The number of one dollar bills: 4
+The number of five dollar bills: 1
+The number of ten dollar bills: 0
+The number of twenty dollar bills: 2
+The number of fifty dollar bills: 1
+The number of one-hundred dollar bills: 0
+Do you want to repeat the program? (y/n)
+y
+Please enter an amount of money between $0-100: $99.90
+The number of pennies: 0
+The number of nickels: 1
+The number of dimes: 1
+The number of quarters: 3
+The number of one dollar bills: 4
+The number of five dollar bills: 1
+The number of ten dollar bills: 0
+The number of twenty dollar bills: 2
+The number of fifty dollar bills: 1
+The number of one-hundred dollar bills: 0
+Do you want to repeat the program? (y/n)
+y
+Please enter an amount of money between $0-100: $0
+The number of pennies: 0
+The number of nickels: 0
+The number of dimes: 0
+The number of quarters: 0
+The number of one dollar bills: 0
+The number of five dollar bills: 0
+The number of ten dollar bills: 0
+The number of twenty dollar bills: 0
+The number of fifty dollar bills: 0
+The number of one-hundred dollar bills: 0
+Do you want to repeat the program? (y/n)
+y
+Please enter an amount of money between $0-100: $0.00
+The number of pennies: 0
+The number of nickels: 0
+The number of dimes: 0
+The number of quarters: 0
+The number of one dollar bills: 0
+The number of five dollar bills: 0
+The number of ten dollar bills: 0
+The number of twenty dollar bills: 0
+The number of fifty dollar bills: 0
+The number of one-hundred dollar bills: 0
+Do you want to repeat the program? (y/n)
+y
+Please enter an amount of money between $0-100: $0.01
+The number of pennies: 1
+The number of nickels: 0
+The number of dimes: 0
+The number of quarters: 0
+The number of one dollar bills: 0
+The number of five dollar bills: 0
+The number of ten dollar bills: 0
+The number of twenty dollar bills: 0
+The number of fifty dollar bills: 0
+The number of one-hundred dollar bills: 0
+Do you want to repeat the program? (y/n)
+y
+Please enter an amount of money between $0-100: $0.05
+The number of pennies: 0
+The number of nickels: 1
+The number of dimes: 0
+The number of quarters: 0
+The number of one dollar bills: 0
+The number of five dollar bills: 0
+The number of ten dollar bills: 0
+The number of twenty dollar bills: 0
+The number of fifty dollar bills: 0
+The number of one-hundred dollar bills: 0
+Do you want to repeat the program? (y/n)
+y
+Please enter an amount of money between $0-100: $20.05
+The number of pennies: 0
+The number of nickels: 1
+The number of dimes: 0
+The number of quarters: 0
+The number of one dollar bills: 0
+The number of five dollar bills: 0
+The number of ten dollar bills: 0
+The number of twenty dollar bills: 1
+The number of fifty dollar bills: 0
+The number of one-hundred dollar bills: 0
+Do you want to repeat the program? (y/n)
+n
+Program now ending...
+
+C:\Users\Brice\source\repos\Bank\Debug\Bank.exe (process 12840) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

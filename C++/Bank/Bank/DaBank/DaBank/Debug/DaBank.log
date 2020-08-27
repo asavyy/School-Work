@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DaBank.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DaBank.cpp
+C:\Users\Brice\Desktop\Bank\DaBank\DaBank\DaBank.cpp(78,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DaBank.vcxproj -> C:\Users\Brice\Desktop\Bank\DaBank\Debug\5.exe
