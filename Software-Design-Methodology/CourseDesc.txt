@@ -1,0 +1,12 @@
+This is an advanced topics course in software design.   Outcomes are:
+
+- Students will understand and write software using design patterns.
+- Students will understand history of Software Engineering.
+- Students will be able to
+- Gather software requirements
+- Clearly document software requirements
+- Students will be able to
+- Create high level and low level technical software designs
+- Clearly document software designs
+- Students will understand software process models.
+- Students will understand Agile software development.
