@@ -1,0 +1,52 @@
+Your mission is to write a program that search a text file for words.  The program takes in  command line arguments.  Name your main class threads
+
+The first command line argument is an s or m.  s - single thread,  m - multiple threads
+
+The remaining arguments are the keywords words to search.    Searches should be on complete words using cap-insensitve mode.   The string "her" should NOT match "here"
+
+For example, this uses multiple threads and searches for four different strings dog cat banana apple
+
+java threads m dog cat  banana apple
+
+ 
+
+  Your program should read from the file bible.txt.  bible.zip download
+
+For each keyword entered at the command line, your program should search the file and return the number of lines that contain that keyword.   If the word is found, print a message saying that the word found in n lines. 
+
+ 
+
+Found 936 lines that contain dog
+Found 345 lines that contain cat
+Found 0 lines that contain banana
+Found 3761 lines that contain apple
+
+ 
+
+For single threaded mode, use only one thread to search for the word.   Search for only word word at a time.  That means search will traverse through the text searching only for one word.   After processing all of the text, start again at the beginning of the text and search for the second word.    So if there are five search terms, you should open and close the file five times.
+
+ 
+
+For multi threaded mode, use only a thread to search for each word.   Start a thread for each word to search.
+
+ 
+
+ 
+
+Test your program with the following test cases:
+
+java threads s here love said be open fortnite fish wine
+
+java threads m here love said be open fortnite fish wine
+
+ 
+
+Time how long it takes for each version to run.
+
+Submit:
+
+Source Code
+
+Timing information
+
+Textual Screen Output

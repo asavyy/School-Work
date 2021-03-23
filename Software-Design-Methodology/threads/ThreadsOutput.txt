@@ -1,0 +1,28 @@
+Microsoft Windows [Version 10.0.18363.1082]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\XXXX>cd C:\Users\brice\Documents\NetBeansProjects\threads\src
+
+C:\Users\XXXX\Documents\NetBeansProjects\threads\src>javac threads.java
+
+C:\Users\XXXX\Documents\NetBeansProjects\threads\src>java threads s here love said be open fortnite fish wine2
+Thread 0  Found 103 lines that contain here in 207 milliseconds.
+Thread 0  Found 237 lines that contain love in 381 milliseconds.
+Thread 0  Found 2285 lines that contain said in 486 milliseconds.
+Thread 0  Found 6873 lines that contain be in 608 milliseconds.
+Thread 0  Found 107 lines that contain open in 699 milliseconds.
+Thread 0  Found 0 lines that contain fortnite in 780 milliseconds.
+Thread 0  Found 26 lines that contain fish in 869 milliseconds.
+Thread 0  Found 0 lines that contain wine2 in 954 milliseconds.
+
+C:\Users\XXXX\Documents\NetBeansProjects\threads\src>java threads m here love said be open fortnite fish wine
+Thread 7 Found 26 lines that contain fish in 412 milliseconds.
+Thread 2 Found 237 lines that contain love in 391 milliseconds.
+Thread 6 Found 0 lines that contain fortnite in 384 milliseconds.
+Thread 3 Found 2285 lines that contain said in 396 milliseconds.
+Thread 8 Found 104 lines that contain wine in 397 milliseconds.
+Thread 5 Found 107 lines that contain open in 396 milliseconds.
+Thread 4 Found 6873 lines that contain be in 378 milliseconds.
+Thread 1 Found 103 lines that contain here in 391 milliseconds.
+
+C:\Users\XXXX\Documents\NetBeansProjects\threads\src>
