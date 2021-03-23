@@ -1,0 +1,5 @@
+COURSE OBJECTIVES The learning outcomes are:
+
+-Have a broad, general understanding of many topics in the field of artificial intelligence (AI).
+
+-Be able to apply AI techniques to develop practical software applications.
