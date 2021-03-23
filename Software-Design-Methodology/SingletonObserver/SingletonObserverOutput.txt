@@ -1,0 +1,86 @@
+run:
+First Test Case: Deleting an empty list...
+Performing first delete..
+The file is already empty.
+The grades list is currently empty.
+There are currently no grades in the file.
+The grades list is currently empty.
+There are currently no grades in the file.
+--------------------------------
+Performing second delete...
+The file is already empty.
+The grades list is currently empty.
+There are currently no grades in the file.
+The grades list is currently empty.
+There are currently no grades in the file.
+--------------------------------
+Second Test Case: Displaying empty grades...
+The grades list is currently empty.
+--------------------------------
+Third Test Case: Calling GetFirstGrade from main when list is empty...
+The grades list is currently empty.
+--------------------------------
+Entering the last test case: 
+1 - Add Grade
+2 - Delete All Grades
+3 - Quit
+What would you like to do?: 1
+
+Please enter the grade:
+70
+The grades currently in the file are: 
+70 
+The average of the grades is: 70.00
+--------------------------------
+1 - Add Grade
+2 - Delete All Grades
+3 - Quit
+What would you like to do?: 1
+
+Please enter the grade:
+76
+The grades currently in the file are: 
+70 76 
+The average of the grades is: 73.00
+--------------------------------
+1 - Add Grade
+2 - Delete All Grades
+3 - Quit
+What would you like to do?: 1
+
+Please enter the grade:
+36
+The grades currently in the file are: 
+70 76 36 
+The average of the grades is: 60.67
+--------------------------------
+1 - Add Grade
+2 - Delete All Grades
+3 - Quit
+What would you like to do?: 1
+
+Please enter the grade:
+89
+The grades currently in the file are: 
+70 76 36 89 
+The average of the grades is: 67.75
+--------------------------------
+1 - Add Grade
+2 - Delete All Grades
+3 - Quit
+What would you like to do?: 1
+
+Please enter the grade:
+92
+The grades currently in the file are: 
+70 76 36 89 92 
+The average of the grades is: 72.60
+--------------------------------
+1 - Add Grade
+2 - Delete All Grades
+3 - Quit
+What would you like to do?: 3
+
+The program is now terminating...
+--------------------------------
+BUILD SUCCESSFUL (total time: 42 seconds)

@@ -1,0 +1,60 @@
+Observer Singleton
+
+Assignment - Observers and Singletons
+
+Assignment - java using a console app ( no graphical interfaces)
+
+Observers and Singletons
+
+
+Create a class that acts as a file manager.   The class is a singleton class that accesses a file.  When the file is changed, it notifies it's observers.  The file manager stores integers in a file that contain grades.  The file is a plain text file.  
+
+----FileManger Class---
+
+FileManager GetInstance() - returns the singleton instance.  The private constructor creates the file if it does not exist.  
+ 
+void AddGrade(int grade) - adds a grade to the file and notifies the observers.
+
+Integer GetFirstGrade() - returns the first grade in the file.  returns null no items exist in the file.
+
+ArrayList<int>  GetAllGrades() - returns a list or array of grades.  
+
+void DeleteAllGrades() - deletes all grades in the file and notifies the observers.
+
+ 
+
+ 
+
+We need to simulate two user interfaces by writing two UIs in our code:
+
+ 
+
+
+---- User Interface that shows average ------
+Displays the average of all grades.  Anytime the grades change, this is notified and should display the new average.
+
+
+---- User Interface that shows each grade -----
+Displays all the grades (horizontally with a space between each grade).  Anytime the grades change, this is notified and should display all the grades again
+
+
+--- main ------
+Load up the two user interfaces.
+
+Read in either option 1 or 2 or 3.  Option 1 is add grade.  It should then read in the integer grade after it.    Option 2 is delete all grades.  Option 3 is quit.
+
+As the user modifies the grades, the file is edited and the two user interface classes are notified.  Program loops forever until user quits using a quit option ( 3 ).
+
+Test cases to try.
+
+Delete empty list of grades.  (eg perform two delete all in a row)
+Display empty grades.
+Call GetFirstGrade from main when list is empty
+Add 5 valid grades
+Turn in source and  textual output with test cases above in a zip file
+
+Programs must compile and build at a command line with
+
+javac *.java
+
+java grades
