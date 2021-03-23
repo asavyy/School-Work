@@ -1,0 +1,42 @@
+Your team has decided to make a crypto currency tracking mobile app for iOS and Android.    You have done an initial brain storm and recorded the initial vision for the app shown below.  It is now time to write a formal SRS so that developers have a clear scope of what is needed to be coded.    Your team may not know much about cryptocurrency but your team realizes that this could be  a profitable app.  Your team will need to learn the domain of basic cryptocurrency and trading.    Since this was your team's idea, you will need to expand the features and get clarity.  The main features are below but you will find that you need to also add more features and requirements.
+
+Your team should write an SRS.  Make it as complete as possible.   We have seen example of SRS documents:
+
+Use cases
+State Diagrams
+Wire flows
+Class diagrams
+functional requirements
+non functional requirements
+interface requirements
+descriptions
+system features
+list of terms
+ 
+
+------------------------------------------
+
+ 
+
+All coin stat screen
+
+Show all coins with
+Name
+Ticker
+Trade Volume
+Price
+Supply
+24 hour change
+12 hour change
+3 day change
+7 day change
+1 month change
+Allow users to sort by any of the fields listed above.   
+Selecting a currency should show details about the coin
+Favorites list
+
+Allow a user add and remove coins to a favorites list.
+Investment tracking list
+
+Allow a user to add coins to an investment list.  It should track the quantity and price you paid for it.  It should show the current gain or loss value and percentage.
+View news about any coin in the details.   
