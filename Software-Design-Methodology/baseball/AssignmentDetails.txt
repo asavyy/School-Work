@@ -1,0 +1,87 @@
+Create a program to manage baseball players.
+
+There will be several types of baseball players { pitchers, batters, fielders, and catcher }.  All of the players throw, catch, and bat differently. 
+
+For example,
+
+ batting - you can swing for contact, swing for power, bunt, or you might not bat.
+
+throwing - you can throw by pitching, throw by throwing to another fielder, or you might not throw
+
+catching - you can catch with a regular globe, catchers mitt, or with your bare hands.
+
+ 
+
+Furthermore, your behaviors might need changed during a game.  For example,  a pitcher might bat if he is in the National League. Conversely, pitchers do not bat in the American League.  A player's batting, throwing, catching must be able to be change at run time.
+
+ 
+
+Implement the program in java or C# to yield the output shown.  Your design and implementation should be elegant and must use the Strategy Pattern.  
+
+Pitchers:  Throw by throwing the ball to the catcher.  Catch by using a regular glove.  Swing by not batting.
+
+Batters:  Do not throw.  Use bare hands to catch the ball.  Swing by focusing on contact.
+
+Fielders: Quickly throw the ball to another fielder.  Catch by using a regular glove.  Swing by not batting.
+
+Catcher:  Throw by throwing the ball back to the pitcher. Catch by catching the balls thrown by a pitcher.  Swing by not batting.
+
+Pinch Hitter: Throw by not throwing.  Catch by not catching.   Swing by swinging for power.
+
+Display() will display the players name.
+
+PerformCatch() will output text that simulates the catch action.  PerformThrow() and PerfomBat() similarly output text on the action.
+
+Programs must compile and run at the command line using:
+
+javac  *.java
+
+java baseball
+
+I will not be installing any extras software, IDEs such as eclipse, netbeans, jcreator to run your programs.  Note that your main class needs to be called baseball (all lowercase).
+
+ 
+
+Turn in your program with
+
+Source Code
+Clear instructions to build your source code in README.txt
+Textual screen shot or script capture.  Do not turn in an image.
+public static void Main(string[] args)
+ {
+ Pitcher kent = new Pitcher();
+ kent.SetName("Kent T");
+ kent.Display();
+ kent.PerformThrow();
+ kent.PerformCatch();
+ kent.PerformBat();
+ Batter pedro = new Batter();
+ pedro.SetName("Pedro A");
+ pedro.Display();
+ pedro.PerformThrow();
+ pedro.PerformCatch();
+ pedro.PerformBat();
+ Fielder max = new Fielder();
+ max.SetName("Max M");
+ max.Display();
+ max.PerformThrow();
+ max.PerformCatch();
+ max.PerformBat();
+ Catcher chris = new Catcher();
+ chris.SetName("Chris S");
+ chris.Display();
+ chris.PerformThrow();
+ chris.PerformCatch();
+ chris.PerformBat();
+ Console.WriteLine("Kent the pitcher will not bat any more because we have a pinch hitter.");
+ kent.SetBattingBehavior(new BatWithNothing());
+ kent.Display();
+ kent.PerformBat();
+
+ PinchHitter bobcat = new PinchHitter();
+ bobcat.SetName("Bobcat");
+ bobcat.Display();
+ bobcat.PerformThrow(); 
+ bobcat.PerformCatch();
+ bobcat.PerformBat();
+ }

@@ -1,0 +1,33 @@
+Microsoft Windows [Version 10.0.18363.1082]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\brice>cd C:\Users\brice\Documents\NetBeansProjects\BaseballAssignment\src
+
+C:\Users\brice\Documents\NetBeansProjects\BaseballAssignment\src>javac baseball.java
+
+C:\Users\brice\Documents\NetBeansProjects\BaseballAssignment\src>java baseball
+The players name is Kent T
+The player passed the ball.
+The player caught the ball with a regular glove.
+The player did not bat! (Strike?)
+The players name is Pedro A
+The player did not throw the ball.
+The player caught the ball with their bare hand (Ouch).
+The player bat for contact.
+The players name is Max M
+The player quickly throws the ball to another fielder.
+The player caught the ball with a regular glove.
+The player did not bat! (Strike?)
+The players name is Chris S
+The player threw the ball back to the pitcher.
+The player caught the ball thrown by the pithcer.
+The player bat for contact.
+Kent the pitcher will not bat any more because we have a pinch hitter.
+The players name is Kent T
+The player did not bat! (Strike?)
+The players name is Bobcat
+The player did not throw the ball.
+The player does not catch.
+The player bat for power.
+
+C:\Users\brice\Documents\NetBeansProjects\BaseballAssignment\src>
