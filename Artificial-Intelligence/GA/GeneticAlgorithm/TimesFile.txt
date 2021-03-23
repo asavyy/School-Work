@@ -1,0 +1,7 @@
+2 M W F 9
+3 M W F	10
+4 M W F	11
+5 M W F	12
+6 M W F	1
+7 M W F	2
+8 M W F	3

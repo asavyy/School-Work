@@ -1,0 +1,32 @@
+run:
+Please enter the number of iterations you want: 
+10000
+Best schedule found at generation 0 with a score 2240:
+CRN    Course   Professor    Need MultiMedia Size         Time     Room              
+1      CS456    Bilitski     true            20           10       KR206             
+2      CS456    Bilitski     true            20           1        BL138             
+3      CS1783   Bilitski     true            15           12       KR206             
+4      CS455    Hagerich     true            20           11       BL134             
+5      CS455    Hagerich     true            20           3        KR206             
+6      CS015    Smigla       true            35           11       BL138             
+7      CS015    IM           false           35           10       Biddle205         
+8      CS015    IM           false           35           1        Biddle123         
+9      CS015    Frederick    false           35           10       KR224             
+10     MATH001  Ferencek     false           40           11       Biddle205         
+11     MATH001  Ferencek     false           60           12       ES100             
+12     MATH001  Ferencek     false           60           12       ES100             
+13     MATH002  Thomson      false           40           1        KR224             
+14     MATH002  Thomson      false           50           12       BL138             
+15     MATH002  Thomson      false           60           11       ES100             
+16     SOC100   Darling      true            45           10       BL138             
+17     SOC100   Darling      true            40           3        BL138             
+18     SOC100   Darling      true            35           2        BL138             
+19     CS047    Bilitski     true            15           3        ES100             
+20     CS047    Bilitski     true            15           11       KR206             
+21     PSY200   Hinderliter  false           30           10       BL134             
+22     PSY200   Hinderliter  false           35           11       KR224             
+23     PSY200   Hinderliter  false           30           3        Biddle123         
+24     CS045    Hagerich     true            20           2        KR206             
+25     CS045    Hagerich     true            20           12       BL134             
+26     CS015    Smigla       true            20           1        KR206             
+BUILD SUCCESSFUL (total time: 15 seconds)

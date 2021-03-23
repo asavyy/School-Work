@@ -1,0 +1,106 @@
+Part 1:
+
+One challenge at universities is the scheduling of rooms each semester.  For example:
+
+Rooms must be large enough to hold all of the students.
+Certain courses require multimedia enabled classrooms
+Professors typically do not want to several courses in a row
+Its nice when a professor gets to teach courses in the same class room
+Professors typically do not want a large amount of time between their starting and ending class (eg. first class at 8:00 AM, last class at 4:00 PM in a single day)
+The time periods, courses, and times are shown below:
+
+ 
+
+Period ID	Days	Time
+2	M W F	9
+3	M W F	10
+4	M W F	11
+5	M W F	12
+6	M W F	1
+7	M W F	2
+8	M W F	3
+ 
+
+Room ID	Size	Multimedia
+BL134	30	X
+BL138	50	X
+KR224	40	 
+KR206	30	X
+Biddle123	35	 
+Biddle205	45	 
+ES100	100	X
+ 
+
+CRN	Course	Professor	Size	Need Multimedia
+1	cs456	Bilitski	20	x
+2	cs456	Bilitski	20	x
+3	cs1783	Bilitski	15	x
+4	cs455	Hagerich	20	x
+5	cs455	Hagerich	20	x
+6	cs015	Smigla	35	x
+7	cs015	IM	35	 
+8	cs015	IM	35	 
+9	cs015	Frederick	35	 
+10	math001	Ferencek	40	 
+11	math001	Ferencek	50	 
+12	math001	Ferencek	60	 
+13	math002	Thomson	40	 
+14	math002	Thomson	50	 
+15	math002	Thomson	60	 
+16	Soc100	Darling	45	x
+17	Soc100	Darling	40	x
+18	Soc100	Darling	35	x
+19	CS047	Bilitski	15	x
+20	CS047	Bilitski	15	x
+21	PSY200	Hinderliter	30	 
+22	PSY200	Hinderliter	35	 
+23	PSY200	Hinderliter	30	 
+24	cs045	Hagerich	20	x
+25	cs045	Hagerich	20	x
+26	cs015	Smigla	20	x
+ 
+
+Your job is to optimize the schedule using a genetic algorithm.  You should write a program that "evolves" the schedule by combining course CRNs with times and rooms.  Here are the rules for assigning class times and rooms to courses:
+
+ 
+
+Hard rules: These rules cannot be broken.  That is, do not allow your algorithm to propose a solution that breaks these rules:
+
+Courses that require a multimedia room must be assigned a multimedia room
+Rooms must be large enough to accommodate the number of students enrolled.
+A course (CRN) must only be on the schedule exactly 1 time.
+Soft Rules:  These rules are suggestions and following them will improve fitness
+
+Professors do not want to teach 3 or more courses in a row.
+Professors like teaching multiple courses in the same room.
+Professors typically do not want a large amount of time between their starting and ending class.
+Fitness bonuses and penalties
+
+Subtract 1 point for each seat available that is not taken.
+Subtract 15 points for each delay of 3 or more hours between courses.
+Subtract 10 points for each instance a professor has 3 or more courses in a row.  ( Three courses in a row would subtract 10 points.   Four courses in row would subtract 20 points.)
+Add 5 points for each instance that a room is duplicated past the first room for a professor:  (Eg. Black214, Black214 is a 5pt bonus.     Kreb206, Kreb206, Kreb206 is a 10pt bonus.)
+Guidelines for the genetic algorithm:
+
+Follow hard rules when formulating an individual in a population.  That is, do not allow a candidate into population of solutions that breaks any of the hard rules.
+Compute the fitness of a schedule schedule by summing up the scores for each course/time/room combination. 
+Use conservative values for N (population size = 50), Pc (crossover probability =0.75), Pm ( mutation probability = 0.05). 
+Be sure your program can provide input easily either through command lines or a gui for the following items.
+N
+Max Generations
+Pc
+Pm
+
+ 
+
+Output:
+
+    Minimally show the fitness of your best schedule found and display the generation it was found.  The theoretical best fitness for this problem is not trivial.  There are different numbers of courses for each professor.  We also do not have exact seating possibilities for each course.  It may not be physically possible to get this theoretical best score.  We learned that the GA can terminate if the target fitness is ever achieved.  However, it may never be achieved.  We can set a limit to the number of times the GA can run (say 10,000 iterations), and use the schedule that yielded best fitness.
+
+    Your output is should show a listing of course/time/room combinations with its score (best schedule ever found).  Put this in some sort of visual table.
+
+ 
+
+Submit your textual output (not an image),  source code and all required files needed to build your project.
+
+ 

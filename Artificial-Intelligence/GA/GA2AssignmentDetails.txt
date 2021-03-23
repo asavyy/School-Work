@@ -1,0 +1,56 @@
+Fix your programs if necessary. 
+
+Your program should
+
+evolve and improve 
+produce valid schedules
+compute correct fitness values 
+Use the baseline values of N=50, Pc =0.75, Pm=0.05.  
+
+Add code to your project to compute to track fitness through each generation.  Provide the ability to export the Min fitness, Max fitness, and average fitness for each generation.
+
+ 
+
+Graph questions
+Plot out the Min, Max, and Average Fitness.  I suggest using Excel.
+1) What can you conclude about the charts?
+
+2) How quickly does your population converge?
+
+3) Does it prematurely converge?
+
+4) What can you conclude?
+
+ 
+
+ 
+
+Part 1 Schedule evolution
+
+Run your program 5 times with max generations = 2000 (you may go higher if needed).  Run it 5 times with max generations of 50.  
+
+-Is your schedule evolving and is your fitness getting better?  Is your fitness better in generation 50?
+
+ 
+
+Part 2 Crossover variations
+
+Run the GA 4 more times using baseline values except use the values of  Pc = 0.25, 0.5, 0.75, and 1.0. Plot out the Max, and Average Fitness. for each run.  X Generation number, Y Axis Fitness Fitness (max and avg).  Note you will have 4 graphs.
+
+- Answer the Graph questions
+
+ 
+
+Part 3  Mutation variations section
+
+Run the GA 5 more times using baseline values except use the values of  Pm = 0.001, 0.002, 0.01, 0.05, 0.1.  Plot out the Max, and Average Fitness. for each run.  X Generation number, Y Axis Fitness Fitness (max and avg).  Note you will have 5 graphs.
+
+- Answer the Graph Questions.
+
+ 
+
+Part 4  Population variations section
+
+Run the GA 6 more times using baseline values except use the values of  N = 10, 20, 50, 100, 500, 1000. Plot out the Max, and Average Fitness. for each run.  X Generation number, Y Axis Fitness Fitness (max and avg).  Note you will have 6 graphs.
+
+- Answer the Graph Questions.
