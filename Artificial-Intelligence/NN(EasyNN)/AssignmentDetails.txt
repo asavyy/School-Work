@@ -1,0 +1,37 @@
+Download  the demo version of EasyNN Plus
+
+Design your network and input layers
+
+First add input columns from insert menu
+
+Add Output columns from insert menu
+
+Add Training Data
+
+Double Click each ? and set the data.
+
+It should look something like this when you are done:
+
+Design a neural network with 4 inputs and 4 outputs
+
+Inputs:
+
+Health: integer 0,1,2
+
+Has-Knife: boolean 0,1
+
+Has-Gun: boolean 0,1
+
+Enemies: integer
+
+ 
+
+Outputs:
+
+Attack: boolean
+
+Run: boolean
+
+Wander: boolean
+
+Hide: boolean
