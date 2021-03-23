@@ -1,0 +1,378 @@
+run:
+Please input the map file: mapgoaraound.txt
+The map file has been loaded successfully.
+Please input the barber file: barbergoaround.txt
+
+TimeStep: 0
+  *     
+  S     
+  S     
+  S     
+  SWWWW 
+ SSBB W 
+ SBBSGW 
+ SSSS W 
+   WWWW 
+        
+
+TimeStep: 1
+  S     
+  *     
+  S     
+  S     
+  SWWWW 
+ SSBB W 
+ SBBSGW 
+ SSSS W 
+   WWWW 
+        
+
+TimeStep: 2
+  S     
+  *     
+  *     
+  S     
+  SWWWW 
+ SSBB W 
+ SBBSGW 
+ SSSS W 
+   WWWW 
+        
+
+TimeStep: 3
+  S     
+  *     
+  *     
+  *     
+  SWWWW 
+SSSBB W 
+SBBBSGW 
+SSSSS W 
+   WWWW 
+        
+
+TimeStep: 4
+  S     
+  *     
+  *     
+  *     
+  *WWWW 
+SSSBB W 
+SBBBSGW 
+SSSSS W 
+   WWWW 
+        
+
+TimeStep: 5
+  S     
+  *     
+  *     
+  *     
+  *WWWW 
+SS*BB W 
+SBBBSGW 
+SSSSS W 
+   WWWW 
+        
+
+TimeStep: 6
+  S     
+  *     
+  *     
+ SSSSSSS
+ S*WWWWS
+S**BB WS
+BBBBSGWS
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 7
+  S     
+  *     
+  *     
+ SSSSSSS
+ **WWWWS
+S**BB WS
+BBBBSGWS
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 8
+  S     
+  *     
+  *     
+ *SSSSSS
+ **WWWWS
+S**BB WS
+BBBBSGWS
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 9
+  S     
+  *     
+  *     
+ **SSSSS
+ **WWWWS
+S**BB WS
+BBBBSGWS
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 10
+  S     
+  *     
+  *     
+ ***SSSS
+ **WWWWS
+S**BB WS
+BBBBSGWS
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 11
+  S     
+  *     
+  *     
+ ****SSS
+ **WWWWS
+S**BB WS
+BBBBSGWS
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 12
+  S     
+  *     
+  *     
+ *****SS
+ **WWWWS
+S**BB WS
+BBBBSGWS
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 13
+  S     
+  *     
+  *     
+ ******S
+ **WWWWS
+S**BB WS
+BBBBSGWS
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 14
+  S     
+  *     
+  *     
+ *******
+ **WWWWS
+S**BB WS
+BBBBSGWS
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 15
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB WS
+BBBBSGWS
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 16
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGWS
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 17
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SSSSS WS
+  SWWWWS
+  SSSSSS
+
+TimeStep: 18
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SSSSS W*
+  SWWWWS
+  SSSSSS
+
+TimeStep: 19
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SSSSS W*
+  SWWWW*
+  SSSSSS
+
+TimeStep: 20
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SSSSS W*
+  SWWWW*
+  SSSSS*
+
+TimeStep: 21
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SSSSS W*
+  SWWWW*
+  SSSS**
+
+TimeStep: 22
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SSSSS W*
+  SWWWW*
+  SSS***
+
+TimeStep: 23
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SSSSS W*
+  SWWWW*
+  SS****
+
+TimeStep: 24
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SSSSS W*
+  SWWWW*
+  S*****
+
+TimeStep: 25
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SSSSS W*
+  SWWWW*
+  ******
+
+TimeStep: 26
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SSSSS W*
+  *WWWW*
+  ******
+
+TimeStep: 27
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SS*SS W*
+  *WWWW*
+  ******
+
+TimeStep: 28
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SS**S W*
+  *WWWW*
+  ******
+
+TimeStep: 29
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBBSGW*
+SS*** W*
+  *WWWW*
+  ******
+
+TimeStep: 30
+  S     
+  *     
+  *     
+ *******
+ **WWWW*
+S**BB W*
+BBBB*GW*
+SS*** W*
+  *WWWW*
+  ******
+The maze has been completed.
+BUILD SUCCESSFUL (total time: 14 seconds)

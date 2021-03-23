@@ -1,0 +1,162 @@
+run:
+Please input the map file: mapcup.txt
+The map file has been loaded successfully.
+Please input the barber file: barbercup.txt
+
+TimeStep: 0
+  *     
+  S     
+  S     
+  S     
+  SWWWW 
+ SSBB W 
+ SBBSGW 
+ SSSS W 
+   WWWW 
+        
+
+TimeStep: 1
+  S     
+  *     
+  S     
+  S     
+  SWWWW 
+ SSBB W 
+ SBBSGW 
+ SSSS W 
+   WWWW 
+        
+
+TimeStep: 2
+  S     
+  *     
+  *     
+  S     
+  SWWWW 
+ SSBB W 
+ SBBSGW 
+ SSSS W 
+   WWWW 
+        
+
+TimeStep: 3
+  S     
+  *     
+  *     
+  *     
+  SWWWW 
+ SSBB W 
+ SBBSGW 
+ SSSS W 
+   WWWW 
+        
+
+TimeStep: 4
+  S     
+  *     
+  *     
+  *     
+  *WWWW 
+ SSBB W 
+ SBBSGW 
+ SSSS W 
+   WWWW 
+        
+
+TimeStep: 5
+  S     
+  *     
+  *     
+  *     
+  *WWWW 
+ S*BB W 
+ SBBSGW 
+ SSSS W 
+   WWWW 
+        
+
+TimeStep: 6
+  S     
+  *     
+  *     
+  *     
+  *WWWW 
+ **BB W 
+ SBBSGW 
+ SSSS W 
+   WWWW 
+        
+
+TimeStep: 7
+  S     
+  *     
+  *     
+  *     
+  *WWWW 
+ **BB W 
+ *BBSGW 
+ SSSS W 
+   WWWW 
+        
+
+TimeStep: 8
+  S     
+  *     
+  *     
+  *     
+  *WWWW 
+ **BB W 
+ *BBSGW 
+ *SSS W 
+   WWWW 
+        
+
+TimeStep: 9
+  S     
+  *     
+  *     
+  *     
+  *WWWW 
+ **BB W 
+ *BBSGW 
+ **SS W 
+   WWWW 
+        
+
+TimeStep: 10
+  S     
+  *     
+  *     
+  *     
+  *WWWW 
+ **BB W 
+ *BBSGW 
+ ***S W 
+   WWWW 
+        
+
+TimeStep: 11
+  S     
+  *     
+  *     
+  *     
+  *WWWW 
+ **BB W 
+ *BBSGW 
+ **** W 
+   WWWW 
+        
+
+TimeStep: 12
+  S     
+  *     
+  *     
+  *     
+  *WWWW 
+ **BB W 
+ *BB*GW 
+ **** W 
+   WWWW 
+        
+The maze has been completed.
+BUILD SUCCESSFUL (total time: 11 seconds)

@@ -1,0 +1,3 @@
+This program does not fufill the requirements exactly. Known issues are:
+
+There are numerous S's displayed on the screen and it is not clear to determine Scandro's location. 
