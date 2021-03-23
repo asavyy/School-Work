@@ -1,0 +1,5 @@
+In this final project, me and 2 other group members were tasked with creating an entire database using the ProjectUniversityDescription. 
+
+We had several parts to this assignment, including boiling down what tables and attributes to make. Defining specific relationships for said tables and attributes.
+
+Determining foreign keys, primary keys, candidate keys, and more.
