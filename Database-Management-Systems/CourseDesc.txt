@@ -1,0 +1,4 @@
+The objective of this course is to provide an in-depth knowledge of database systems designs. 
+Thus, the emphasis is on how to model data and use available database management systems (DBMS) effectively. 
+Toward this end, relational structure is discussed in great detail, and hierarchical and network data structures are also presented.
+Object-oriented database technology is also discussed.
