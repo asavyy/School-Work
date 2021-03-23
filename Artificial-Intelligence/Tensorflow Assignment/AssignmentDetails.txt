@@ -1,0 +1,48 @@
+Design a deep neural network in tensor flow with 4 inputs and 4 outputs
+
+Inputs:
+
+Health: integer 0,1,2
+
+Has-Knife: boolean 0,1
+
+Has-Gun: boolean 0,1
+
+Enemies: integer
+
+ 
+
+Outputs:
+
+Attack: boolean
+
+Run: boolean
+
+Wander: boolean
+
+Hide: boolean
+
+Be sure to have only 1 value of true in the outputs for each data set.
+
+Train your network and try the following test values once your network is trained:
+
+2111 Action Attack
+1112 Action Hide
+0000 Action Wander
+0111 Action Hide
+2013 Action Hide
+2103 Action Hide
+0103 Action Run
+ 
+
+Show your results.
+
+Please turn in:
+
+1) Text file with Sharable link or put sharable link in the description
+
+2) ipynb file
+
+3) csv or text file with  your data
+
+I added the file extensions:  zip,csv,txt,ipynb
