@@ -1,0 +1,4 @@
+CS 1766 is a course intended for Computer Science majors. The course will introduce the basics of modern computer graphics. 
+Emphasis is placed on the mathematics of transformations and projections, an understanding of the rendering equation, and an introduction to modern shader-based rendering.
+Other topics are modeling, light and shadows, reflection models, spatial data structures, sampling, and animation. 
+This course is not a computer graphics modeling course and technical in nature.
