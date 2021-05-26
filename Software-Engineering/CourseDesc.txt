@@ -1,0 +1,5 @@
+Software engineering is a team discipline. The purpose of this course is to introduce the principles of software
+engineering and to provide experience in teamwork. The course is structured around a major project, which is
+taken through the stages of cost estimation, requirements specification, design and implementation, and testing.
+
+We were given a series of projects, including a final project, which will be detailed in the folders above.
