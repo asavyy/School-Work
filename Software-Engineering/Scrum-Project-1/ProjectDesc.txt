@@ -1,0 +1,88 @@
+We are in need of a coffee ordering system.  The software ordering system is a system that allows users to pre order coffee from the coffee shop in Blackington.  The client wants a prototype focusing on the user interface.  It has the following features
+
+Graphical interface (Web, Mobile, thick client, UWP, Swing, AWT, etc)
+Menu
+Pick up time   ( must be at least 15 minutes in advanced)
+No payment options.  Assume that payment is automatically connect to the user using the software.
+ 
+
+ 
+
+Assignment
+
+Conduct a two week sprint kicking off today and finishing in two weeks.
+Perform sprint planning and estimate your effort in story points.
+Add user stories and subtasks and possibly epics.
+Perform daily scrums and take notes.  You must have daily scrums and take notes.
+Demo in class in two weeks with  the prototype
+Do NOT perform the majority of the work on the weekend before it is due.  Pace yourself.
+Use Jira and technology help with the scrum process.
+Unit tests must exist into your development efforts
+ 
+
+Notes
+
+Be sure to plan accordingly.  Do not keep adding stories and tasking as the week moves on.  
+All stories and tasking can be put in a sprint including installing dev tools.
+ 
+
+Scrum Process
+
+Each team will have one scrum master, one product owner, and three to four other team members.
+The scrum masters and product owners should still take a part as a development roll.
+Scrum master should have daily scrums and record the daily scum meeting notes.  The scrum master must also remove obstacles.
+The PO should ensure that all tasking in recorded in jira, estimates, and put into a sprint.  The PO should ensure that user stories are clearly written and each have acceptance criteria.  The PO should ensure that the tasks chosen to be in the sprint lead towards a usable product.
+ 
+
+Working in a team
+
+Step up and contribute more than expected.
+On the flip side, a team where one person does all the work is not efficient.  Do not hog all the work yourself because you think you are the best.  Mentor other teammates and build that into the cost estimates when you estimate your stories,
+Groups will have an opportunity to report other team members who are not contributing.
+Work together as a team to design the product and chose technologies.
+Design your system from High level to low level.  You should not focus on colors as your first task.  
+USE CLASS TIME EFFICIENTLY  - Ask questions in class early on during the project.    Do not wait until the end to ask questions on the behavior of the system.  This will likely cause scope creep.
+ 
+
+Deliverables
+
+Initial Backlog before sprint starts
+Notes from daily scrum
+Put code in bitbucket  Give the user bilitskiPItt access if possible
+--------
+ 
+
+Present your project emphasizing both product and process.   Be prepared to show evidence that software engineering processes were followed.   Limit your entire presentation to 15 minutes max.   Be prepared to answer questions on your project.  The use of visual aids (slides) are optional but generally help organize your project.   Presentations may have to expand both class times.  Let me know if you have a preference for a room.
+
+ 
+
+Process
+
+Tasks and Stories have definitions of done.
+Tasks and Stories have estimates.
+Sprint backlog was created 
+Sprint started after sprint backlog was estimated
+Daily scrums happened every day
+Basic unit testing was performed
+System testing was performed.  Show evidence.
+Bugs found were properly recorded.
+Team balanced workload.
+Scrum master helped to impede blockers
+Most valuable features were implemented
+Workload was not backloaded and completed at the last moment.
+ 
+
+Presentation
+
+Presentation organized
+Each person contributed to presentation
+Presentation was professional  ( no arguing/interrupting team members)
+Team used time efficiently to demonstrate the process and product
+Visual aids were used when necessary
+Readable font size was used
+ 
+
+Technical
+
+Product conforms to requirements
+System was designed well
