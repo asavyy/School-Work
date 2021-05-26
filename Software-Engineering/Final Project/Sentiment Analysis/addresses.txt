@@ -1,0 +1,104 @@
+https://old.reddit.com/r/UPJ/
+crawl
+"thing_t3
+data-url="/r/UPJ/
+"
+
++
+
+scrape
+<!doctype html>
+<meta name="description"
+/>
+content="
+"
+
+/////End of Formatting/////
+https://www.facebook.com/pg/PittJohnstown/reviews/?ref=page_internal
+scrape
+<!doctype html>
+data-ft
+</div>
+<span>
+</p>
+
+/////End of Formatting/////
+https://www.unigo.com/colleges/university-of-pittsburgh-johnstown/reviews
+scrape
+overall-college-user-review-container
+><i class="fa f
+pagination flex-wrap
+</div><p>
+</p>
+
+/////End of Formatting/////
+https://www.niche.com/colleges/university-of-pittsburgh---johnstown/reviews/
+scrape
+<div class="review
+reviewBody
+Pagination controls for reviews
+<span><span>
+<br></span>
+
+/////End of Formatting/////
+https://www.princetonreview.com/college/university-pittsburgh-at-johnstown-1024021
+scrape
+box-title
+<h4 class
+btn-article readmore-js-toggle
+Undergrads
+</div>
+
+/////End of Formatting/////
+https://www.indeed.com/cmp/Upj/reviews
+scrape
+cmp-NewLineToBr-text
+class="cmp-Review-
+-text"></span></span></span></span></div><div>
+Br-text">
+</span>
+
+/////End of Formatting/////
+https://www.cappex.com/colleges/university-of-pittsburgh-johnstown/reviews
+scrape
+<tr>
+views-element-container
+views-element-container
+field field--name-field-review-comment field--type-string field--label-hidden field__item">
+</div>
+
+/////End of Formatting/////
+https://www.ratemyprofessors.com/campusRatings.jsp?sid=1515
+scrape
+<td class="comments">
+<div class="date" data-timestamp="1617854362000">04/08/2021</div>
+<a data-id="321359"
+<p>
+</p>
+
+/////End of Formatting/////
+https://www.greekrank.com/uni/603/reviews/
+scrape
+comment-box-content-writing
+comment-box-head
+comment-box-stardiv
+<span>
+</span
+
+/////End of Formatting/////
+https://www.glassdoor.com/Reviews/University-of-Pittsburgh-Johnstown-Reviews-EI_IE3026.0,24_IL.25,34_IM429.htm?filter.iso3Language=eng
+crawl
+<!DOCTYPE html>
+page  css-sed91k" data-test="pagination-link-2" href="/Reviews/University-of-Pittsburgh-Johnstown-Reviews-EI_IE3026.0,24_IL.25,34_IM429
+"
+
++=
+
+scrape
+<!DOCTYPE html>
+id="ReviewsFeed"
+d-flex justify-content-between px-std px-sm-none
+<span data-test=
+</span>
+
+/////End of Formatting/////

@@ -1,0 +1,89 @@
+https://old.reddit.com/r/UPJ/
+crawl
+"thing_t3
+data-url="/r/UPJ/
+"
+
++
+
+scrape
+<!doctype html>
+<meta name="description"
+/>
+content="
+"
+
+/////End of Formatting/////
+https://www.facebook.com/pg/PittJohnstown/reviews/?ref=page_internal
+scrape
+<!doctype html>
+data-ft
+</div>
+<span>
+</p>
+
+/////End of Formatting/////
+https://www.unigo.com/colleges/university-of-pittsburgh-johnstown/reviews
+scrape
+overall-college-user-review-container
+><i class="fa f
+pagination flex-wrap
+</div><p>
+</p>
+
+/////End of Formatting/////
+https://www.niche.com/colleges/university-of-pittsburgh---johnstown/reviews/
+scrape
+<div class="review
+reviewBody
+Pagination controls for reviews
+<span><span>
+<br></span>
+
+/////End of Formatting/////
+https://www.princetonreview.com/college/university-pittsburgh-at-johnstown-1024021
+scrape
+box-title
+<h4 class
+btn-article readmore-js-toggle
+Undergrads
+</div>
+
+/////End of Formatting/////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://upj-advocate.com/category/opinions/
+crawl
+<a href=
+"
+/"
+
++
+
+scrape
+<span class="storycontent
+">
+<p>
+</p>
+/////End of Formatting/////
+
+
+
+
+
+
+
+
